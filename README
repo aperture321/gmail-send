@@ -1,0 +1,13 @@
+Now releasing gmail-send!
+
+gmail-send allows anybody to connect to irc with a bot and a gmail address!
+The process is simple:
+  You define elements (username, password, channel to watch, phone #)
+  Then it'll do the rest!
+
+=======
+TODO:
+  escape characters?
+  multiple channels
+  re-assignment
+  more features?
